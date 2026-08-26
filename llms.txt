@@ -1,0 +1,27 @@
+# Fablecanvas
+
+> Fablecanvas is a creative studio specializing in custom character art for VTubers, indie devs, and content creators. We design furry OCs, comic arts, 3D & 2D vtubing models, pony characters, and Awali-inspired art.
+
+## Services
+
+- **Furry OCs**: Custom character designs with unique personalities, backstories, and visual identities. Includes ref sheets and expression packs.
+- **Comic Arts**: Full comic production from script to final panel — layout, inking, coloring, and lettering.
+- **3D Vtubing Models**: Fully rigged 3D avatars with face tracking, lip sync, and smooth physics, built in Blender.
+- **2D Vtubing Models**: Expressive 2D models with fluid animation using Live2D and Spine.
+- **Pony Art**: Stylized pony characters — MLP-inspired or fully original with custom outfits and flair.
+- **Awali**: Bold, vibrant Awali-inspired character designs full of cultural energy.
+
+## Process
+
+1. You share your idea and references
+2. We draw and iterate until it feels right
+3. You receive your finished art, ready to use
+
+## Contact
+
+- Website: https://fablecanvas.xyz
+- Email: help@fablecanvas.xyz
+
+## Location
+
+- Available worldwide, remote-first studio
